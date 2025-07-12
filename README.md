@@ -4,8 +4,8 @@ Esse projeto foi desenvolvido durante a **Next Level Week Agents** da Rocketseat
 
 ## 🔍 Pré‑visualização
 
-Confira o portfólio com o projeto:  
-➡️ [Repositório no GitHub](https://github.com/LufeCovizzi/NWL-Agents)
+Confira o projeto:  
+➡️ [Projeto](https://lufecovizzi.github.io/Melhores-builds-jogos/)
 
 ## 🚀 Tecnologias Utilizadas
 
